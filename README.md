@@ -1,6 +1,6 @@
 # Smart-e-challan-system
-#	Problem Statement : Smart e-challan system to control traffic violations
-#	Problem Description: Preparing challan ,making software to deduct money from concerned person and sending challan to his/her cell phone  Sending this with vehicles no. to server by proper technology. Taking snapsat the traffic square by surveillance cameras /digital of the person / Vehicles who violates traffic.  To implement traffic disciplinary action against traffic laws. 
+###	Problem Statement : Smart e-challan system to control traffic violations
+####	Problem Description: Preparing challan ,making software to deduct money from concerned person and sending challan to his/her cell phone  Sending this with vehicles no. to server by proper technology. Taking snapsat the traffic square by surveillance cameras /digital of the person / Vehicles who violates traffic.  To implement traffic disciplinary action against traffic laws. 
 
 SOLUTION
 The Aim of the project:
